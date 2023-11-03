@@ -1,0 +1,4 @@
+// The program input for roulette/src/main.leo
+[main]
+public number: u8 = 2u8;
+
